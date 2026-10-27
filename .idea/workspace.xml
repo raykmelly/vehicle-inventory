@@ -4,13 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27c8fbdc-464d-4652-a27e-704c467bd358" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="27c8fbdc-464d-4652-a27e-704c467bd358" name="Changes" comment="Made the Vehicle.java object with a constructor, variables, and getters / setters">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/VehicleInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/VehicleInventoryApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,6 +34,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "Main"
   }
 }]]></component>
@@ -37,6 +47,19 @@
       <option name="presentableId" value="Default" />
       <updated>1793039444145</updated>
     </task>
+    <task id="LOCAL-00001" summary="Started project">
+      <created>1793039519166</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1793039519166</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Started project" />
+    <MESSAGE value="Made the Vehicle.java object with a constructor, variables, and getters / setters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made the Vehicle.java object with a constructor, variables, and getters / setters" />
   </component>
 </project>
